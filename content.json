@@ -1,0 +1,389 @@
+{
+  "site": {
+    "name": "Rehan Saleem",
+    "role": "Copywriter · Content Systems · AI-assisted Workflows",
+    "eyebrow": "CLEAR WORDS. USEFUL SYSTEMS. THOUGHTFUL EXECUTION.",
+    "headline": "Words that make things move.",
+    "intro": "I’m Rehan Saleem — a copywriter who combines clear communication, creative thinking, and practical AI workflows to turn ideas into useful content and systems.",
+    "availability": "Open to the right projects",
+    "location": "Based in Pakistan · Working worldwide",
+    "aboutTitle": "Creative thinking. Practical execution.",
+    "about": "I work at the intersection of persuasive writing, creative production, and useful processes. My portfolio brings together long-form copywriting, graphic design, AI-assisted video, brand documentation, and client-support resources.",
+    "email": "",
+    "instagram": "",
+    "linkedin": "",
+    "behance": "",
+    "fiverr": "",
+    "cta": "Have a project in mind? Let’s make it happen."
+  },
+  "services": [
+    {
+      "title": "Copywriting & Content",
+      "desc": "Landing pages, sales pages, hooks, scripts, and brand-aligned editing."
+    },
+    {
+      "title": "Graphic Design",
+      "desc": "YouTube thumbnails, social creatives, promotional graphics, and visual storytelling."
+    },
+    {
+      "title": "AI UGC & Video",
+      "desc": "AI-assisted short-form video concepts and content production."
+    },
+    {
+      "title": "AI Workflows",
+      "desc": "Reusable prompts and practical AI-assisted workflows for consistent output."
+    },
+    {
+      "title": "Client Documentation",
+      "desc": "Onboarding playbooks, knowledge bases, SOPs, and troubleshooting guides."
+    },
+    {
+      "title": "Brand & Content Systems",
+      "desc": "Voice guidelines, content structures, and clear handoff documentation."
+    }
+  ],
+  "skills": [
+    "Copywriting",
+    "Sales Page Writing",
+    "Landing Page Copy",
+    "Graphic Design",
+    "YouTube Thumbnail Design",
+    "AI UGC Video",
+    "AI Prompt Design",
+    "Content Strategy",
+    "Brand Voice",
+    "Client Onboarding",
+    "SOP Documentation",
+    "Research & Editing"
+  ],
+  "projects": [
+    {
+      "id": "project-01",
+      "title": "The Divergence",
+      "category": "Graphic Design",
+      "description": "A finance and investing-themed YouTube thumbnail concept built around a strong central portrait, contrast, and oversized headline hierarchy.",
+      "asset": "assets/graphics/Sample 1.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-02",
+      "title": "Buffett vs. Munger",
+      "category": "Graphic Design",
+      "description": "A split-screen comparison thumbnail using expressive portraits, high contrast, and a clear versus structure.",
+      "asset": "assets/graphics/Sample 2.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-03",
+      "title": "Munger Warning",
+      "category": "Graphic Design",
+      "description": "A dramatic editorial thumbnail concept combining a warning headline with a high-contrast financial visual.",
+      "asset": "assets/graphics/Sample 3.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-04",
+      "title": "Stop Buying Trash",
+      "category": "Graphic Design",
+      "description": "A bold, high-contrast thumbnail concept designed to make the message readable at small sizes.",
+      "asset": "assets/graphics/Sample 4.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-05",
+      "title": "You Are the Rat",
+      "category": "Graphic Design",
+      "description": "A visual metaphor-led thumbnail pairing a retail setting with a punchy headline.",
+      "asset": "assets/graphics/Sample 5.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-06",
+      "title": "The Stupidest Sin",
+      "category": "Graphic Design",
+      "description": "A monochrome portrait-led thumbnail with a bright numerical callout.",
+      "asset": "assets/graphics/Sample 6.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-07",
+      "title": "He Warned You",
+      "category": "Graphic Design",
+      "description": "A split-composition thumbnail using a portrait and a contrasting market visual.",
+      "asset": "assets/graphics/Sample 7.jpeg",
+      "kind": "image",
+      "tags": [
+        "Thumbnail design"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-08",
+      "title": "BrandAid — Pretty Websites",
+      "category": "Graphic Design",
+      "description": "A social creative for BrandAid Marketing positioning conversion-focused smart websites.",
+      "asset": "assets/graphics/Sample 8.png",
+      "kind": "image",
+      "tags": [
+        "BrandAid Marketing"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-09",
+      "title": "BrandAid — Booked Jobs",
+      "category": "Graphic Design",
+      "description": "A vertical promotional creative explaining the Booked Job Engine offer.",
+      "asset": "assets/graphics/Sample 9.png",
+      "kind": "image",
+      "tags": [
+        "BrandAid Marketing"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-10",
+      "title": "Talia Halberor",
+      "category": "Copywriting",
+      "description": "Long-form wellness offer copy project, including a structured sales narrative and offer presentation.",
+      "asset": "assets/copywriting/Complete Overhaul - Talia Halberor.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-11",
+      "title": "Mastering Mold",
+      "category": "Copywriting",
+      "description": "Sales page copy project for a mold-related education or wellness offer. The source document contains the full draft.",
+      "asset": "assets/copywriting/Complete Overhaul for Mastering Mold - Dr.Ashley.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-12",
+      "title": "Unbreakable Confidence",
+      "category": "Copywriting",
+      "description": "Sales page copy for a confidence-development course, organized around the core promise, mechanism, curriculum, and FAQs.",
+      "asset": "assets/copywriting/Complete Overhaul for Unbreakable Confidence - Anna Goldstein.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-13",
+      "title": "Butterfly Effect Program",
+      "category": "Copywriting",
+      "description": "Sales page and video-sales-letter copy for a wellness coaching program, structured around audience pain points, mechanism, offer, and objections.",
+      "asset": "assets/copywriting/Complete Overhaul of Butterfly Effect Program - Melissa.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-14",
+      "title": "EMP",
+      "category": "Copywriting",
+      "description": "Long-form offer copy project. Open the source document to review the complete draft and its page structure.",
+      "asset": "assets/copywriting/Complete Overhaul of EMP - Kristina.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-15",
+      "title": "Feral Creator",
+      "category": "Copywriting",
+      "description": "Sales page copy for a creator-focused business program, with positioning, offer breakdown, bonuses, and launch messaging.",
+      "asset": "assets/copywriting/Complete Overhaul of Feral Creator - Evan.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-16",
+      "title": "Fuck Yes",
+      "category": "Copywriting",
+      "description": "Opt-in and sales page copy for a relationship coaching offer, with a clear hook, framework, testimonials, and conversion-focused calls to action.",
+      "asset": "assets/copywriting/Complete Overhaul of Fuck Yes - Kevin.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-17",
+      "title": "The 60-Day Gut Reset",
+      "category": "Copywriting",
+      "description": "Long-form landing page copy for a gut-health coaching offer, including headline, lead, offer structure, proof sections, calls to action, and FAQs.",
+      "asset": "assets/copywriting/Complete Overhaul of The 60-Day Gut Reset - Marla.docx",
+      "kind": "document",
+      "tags": [
+        "Sales page",
+        "Long-form copy"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-18",
+      "title": "AI UGC Video Sample 1",
+      "category": "AI UGC Video",
+      "description": "AI-assisted user-generated-content style video sample. Use the player to preview the delivered video.",
+      "asset": "assets/video/ai-ugc-sample-1.mp4",
+      "kind": "video",
+      "tags": [
+        "AI UGC",
+        "Video"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-19",
+      "title": "AI UGC Video Sample 2",
+      "category": "AI UGC Video",
+      "description": "AI-assisted user-generated-content style video sample. Use the player to preview the delivered video.",
+      "asset": "assets/video/ai-ugc-sample-2.mp4",
+      "kind": "video",
+      "tags": [
+        "AI UGC",
+        "Video"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-20",
+      "title": "BrandAid Marketing — Brand Guidelines",
+      "category": "Systems & Documents",
+      "description": "A brand guideline presentation covering BrandAid’s story, logo variations, colour palette, and typography.",
+      "asset": "assets/documents/Brand Guideline for BrandAid Marketing.pdf",
+      "kind": "pdf",
+      "tags": [
+        "Brand identity",
+        "PDF"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-21",
+      "title": "BrandAid Marketing — Knowledge Base",
+      "category": "Systems & Documents",
+      "description": "A working knowledge base covering the agency overview, target audience, brand voice, service offering, and competitor landscape.",
+      "asset": "assets/documents/Knowledge Base for BrandAid Marketing.pdf",
+      "kind": "pdf",
+      "tags": [
+        "Research",
+        "Documentation"
+      ],
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "project-22",
+      "title": "AI Prompt Library for Content Teams",
+      "category": "Systems & Documents",
+      "description": "A practical prompt resource for repeatable content workflows and AI-assisted production.",
+      "asset": "assets/documents/ai-prompt-library.pdf",
+      "kind": "pdf",
+      "tags": [
+        "AI workflows",
+        "PDF"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-23",
+      "title": "Client Onboarding Playbook",
+      "category": "Systems & Documents",
+      "description": "A client onboarding resource with preparation, call structure, account setup, and follow-up guidance.",
+      "asset": "assets/documents/client-onboarding-playbook.pdf",
+      "kind": "pdf",
+      "tags": [
+        "Client experience",
+        "PDF"
+      ],
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "project-24",
+      "title": "Support Escalation Guide",
+      "category": "Systems & Documents",
+      "description": "A support and troubleshooting reference for issue triage, escalation, and client communication.",
+      "asset": "assets/documents/support-escalation-guide.pdf",
+      "kind": "pdf",
+      "tags": [
+        "Support",
+        "SOP",
+        "PDF"
+      ],
+      "featured": false,
+      "visible": true
+    }
+  ]
+}
